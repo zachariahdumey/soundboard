@@ -1,0 +1,42 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  text-align:center;
+  background: #DDDDFF;
+}
+#boarddiv {
+  text-align: center;
+  width:50%;
+  min-width: 200px;
+  max-width: 600px;
+  margin: 0px auto;
+}
+
+#author_div {
+  clear: both;
+  text-align: center;
+  width:50%;
+  min-width: 200px;
+  max-width: 600px;
+  margin: 0px auto;
+}
+
+.sound_button {
+  width: 100px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+ 
+li {
+  float: left;
+  margin: 0;
+  padding: 0;
+} 
+a {
+  color: #8888AA;
+  background-color: #111133;
+}
